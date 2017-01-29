@@ -6,6 +6,9 @@
 <hr>
 <ul>
   <li>
+    <a href="https://goo.gl/3bfFfq"> Seminar#6 slide </a>
+  </li>
+  <li>
     <a href="https://goo.gl/5At5Hq"> Seminar#5 slide </a>
   </li>
   <li>
